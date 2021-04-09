@@ -1,2 +1,4 @@
 # Map_Reduce_Word_Counter
-A simple word count maintainer for a group of text.
+Word counter that sorts words alphabetically, and shows how many times they occurred in the text. 
+
+Built with love and JavaScript... 
